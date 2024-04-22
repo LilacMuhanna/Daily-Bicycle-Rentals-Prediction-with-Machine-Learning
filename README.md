@@ -6,9 +6,9 @@ This project focuses on predicting daily bicycle rentals using environmental and
 
 ## Models Developed
 Random Forest Regressor
-AdaBoost Regressor
-Reduced Feature AdaBoost Regressor
-Each model aimed to minimize the RMSE and maximize the R^2 Score, with the best performance exhibited by the Reduced Feature AdaBoost Regressor.
+  AdaBoost Regressor
+  Reduced Feature AdaBoost Regressor
+  Each model aimed to minimize the RMSE and maximize the R^2 Score, with the best performance exhibited by the Reduced Feature AdaBoost Regressor.
 
 ## Results
 Best Model: Reduced Feature AdaBoost Regressor
