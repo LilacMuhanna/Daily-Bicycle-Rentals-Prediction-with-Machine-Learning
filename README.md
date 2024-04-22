@@ -12,7 +12,7 @@ Each model aimed to minimize the RMSE and maximize the R^2 Score, with the best 
 
 ## Results
 Best Model: Reduced Feature AdaBoost Regressor
-Test RMSE: 418.46
+Test MSE: 418.46
 R^2 Score: 0.984
 The Reduced Feature AdaBoost Regressor delivered the most accurate predictions, highlighting the significant impact of feature selection on model performance.
 
